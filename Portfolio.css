@@ -1,0 +1,60 @@
+body { 
+  background-color: grey;
+  margin-top: 0px;
+  margin-botton: 0px;
+  margin-left: 0px;
+  maring-right: 0px;
+}
+
+.header-main {
+  background-color: purple;
+  width: 100%;
+  margin-top: 0px;
+  margin-botton: 0px;
+  font-style: Helvetica;
+  position: fixed;
+}
+
+.header{
+ padding-top: 20px;
+ padding-left: 120px; 
+ padding-right: 120px;
+ padding-bottom: 20px;
+ }
+
+.top-buttons{
+   height: 40px; 
+   background-color: white;
+   font-family: Helvetica;
+   font-weight: bold;
+   color: grey;
+   float: right;
+   margin-bottom: 20px;
+   margin-right: 5px;
+   border-width: 0px;
+   
+}
+
+.top-logo {
+  width: 5%;
+}
+
+.aboutme{
+ padding-top: 150px;
+ padding-left: 120px; 
+ padding-right: 120px;
+ padding-bottom: 40px;
+ margin-left: 120px;
+ margin-right: 120px;
+ background-color: rgb(200,200, 200);
+}
+
+.btn{
+  width : 10%;
+  display: block;
+  font-size:0.75em;
+}
+
+h2{
+  text-align: right;
+}
